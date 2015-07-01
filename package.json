@@ -1,0 +1,15 @@
+{
+  "name": "psd-image-resource-parser",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Yuhta Nakajima <yuhta.nakajima@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jdataview": "^2.3.0",
+    "string.fromcodepoint": "^0.2.1"
+  },
+  "devDependencies": {
+    "cheerio-httpcli": "^0.3.2"
+  }
+}
